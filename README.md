@@ -1,7 +1,7 @@
 # Practica 1
 ## Laboratorio - Manejo e Implementación de Archivos
 
-Video explicativo: [Laboratorio MIA - Practica Junio 2020](https://youtu.be/nL6V5LMmEow)
+Video explicativo: [Laboratorio MIA - Practica Junio 2020](https://youtu.be/txJVA_DJnFY)
 
 Este proyecto es un ejercicio sobre bases de datos, en específico, consultas DDL
 
